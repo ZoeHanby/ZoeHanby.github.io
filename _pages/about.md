@@ -31,8 +31,11 @@ redirect_from:
 
 
 # 🎓 Educations
++ Ph.D. in Journalism
+  + Hong Kong Baptist University, 2024.09 $\sim$ Present
+    
 + M.A. in Journalism and Communication
-  + Soochow University, 2021.09 $\sim$ Present
+  + Soochow University, 2021.09 $\sim$ 2024.06
 
 + B.A. in Journalism and Communication
   + Hubei University, 2017.09 $\sim$ 2021.06
@@ -72,7 +75,7 @@ Hou, J., **Han, B.**, Chen, L., & Zhang, K.
 
 # 🎖 Awards
 - Second Prize of Soochow University Academic Scholarship, 2021 
-- Soochow University Academic Scholarship Grand Prize, 2022
+- Grand Prize of Soochow University Academic Scholarship, 2022
 - Outstanding Graduate Student of Soochow University in 2022-2023 Academic Year
-
+- China National Scholarship, 2023
 

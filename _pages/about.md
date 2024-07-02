@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I am Boya Han, a master student majoring in Journalism and Communication at Soochow University. My research interests are health communication, digital brand marketing and climate communication.
++ I am Boya Han, a Ph.D. student majoring in Journalism at Hong Kong Baptist University. My research interests are corporate communication, digital brand marketing and climate communication.
 
 
 # 📰 Recent News

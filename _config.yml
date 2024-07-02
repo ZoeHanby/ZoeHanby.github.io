@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Boya Han"
-  avatar           : "![Image]https://github.com/ZoeHanby/ZoeHanby.github.io/blob/cf31470891c6ea8bc994b4804af192329bb8163c/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg"
+  avatar           : "![image](https://github.com/ZoeHanby/ZoeHanby.github.io/blob/6c89bfe5f27369031b8a43a753a97187f044dbb6/files/%E8%AF%81%E4%BB%B6%E7%85%A7.jpg)"
   bio              : 
   location         : "Hongkong, China"
   employer         :

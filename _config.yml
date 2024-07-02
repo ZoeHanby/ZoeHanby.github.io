@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Boya Han"
-  avatar           : "Image 证件照.jpg"
+  avatar           : "![Image]证件照.jpg"
   bio              : 
   location         : "Hongkong, China"
   employer         :

@@ -31,7 +31,7 @@ redirect_from:
 
 
 # 🎓 Educations
-+ Ph.D. in Journalism
++ Ph.D. in Communication
   + Hong Kong Baptist University, 2024.09 $\sim$ Present
     
 + M.A. in Journalism and Communication

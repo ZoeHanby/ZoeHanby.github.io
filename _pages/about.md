@@ -18,14 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧑‍🎓 About Me
-+ I am Boya Han, a Ph.D. student majoring in Journalism at Hong Kong Baptist University. My research interests are corporate communication, digital brand marketing and climate change.
++ I am Boya Han, a Ph.D. student majoring in Communication at Hong Kong Baptist University. My research interests are corporate communication, digital brand marketing and climate change.
 
 
 # 📰 Recent News
-+ 2023.05: Paper entitled “Feeling present matters: effects of social presence on live-streaming workout courses’ purchase intention” was published in *Journal of Product & Brand Management*.
-+ 2022.09: Paper entitled “Predictors of the Public’s Aversion to Patients Infected with COVID-19 in China: The Mediating Role of Negative Physiology” was published in *Healthcare*.
++ 2025.06: Paper “The Impact of CSR Attributions and Crisis Types on Public Trust and Purchase Intention' was accepted for presentation at the ICA (International Communication Association) Annual Conference.
++ 2023.05: Paper “Feeling Present Matters: Effects of Social Presence on Live-streaming Workout Courses’ Purchase Intention” was published in *Journal of Product & Brand Management*.
++ 2022.09: Paper “Predictors of the Public’s Aversion to Patients Infected with COVID-19 in China: The Mediating Role of Negative Physiology” was published in *Healthcare*.
 
-+ 2022.09: Paper entitled “The construction and dissemination ideas of a model of factors influencing users' adoption attitudes under the "5G+" teaching model” was published in *Mobile Information*.
++ 2022.09: Paper “The construction and dissemination ideas of a model of factors influencing users' adoption attitudes under the "5G+" teaching model” was published in *Mobile Information*.
 
 + 2021.12-2022.08: Participated in the "Research on the Adoption and Operation of User Media in the Digital Age" (21FXWB019), which was funded by the National Social Science Fund of China in 2021.
 
@@ -34,7 +35,7 @@ redirect_from:
 + Ph.D. in Communication
   + Hong Kong Baptist University, 2024.09 $\sim$ Present
     
-+ M.A. in Journalism and Communication
++ M.A. in Communication
   + Soochow University, 2021.09 $\sim$ 2024.06
 
 + B.A. in Journalism and Communication
